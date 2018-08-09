@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-practice",
+  "version": "1.0.0",
+  "description": "a simple node app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k3vinfoo/nodejs-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k3vinfoo/nodejs-practice/issues"
+  },
+  "homepage": "https://github.com/k3vinfoo/nodejs-practice#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "express-validator": "^5.3.0",
+    "mongojs": "^2.6.0"
+  }
+}
